@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>The_Ledger_Co</RootNamespace>
+    <AssemblyName>geektrust</AssemblyName>
+  </PropertyGroup>
+
+</Project>

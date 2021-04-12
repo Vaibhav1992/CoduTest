@@ -1,0 +1,12 @@
+C:\Users\vaibh\source\repos\The Ledger Co\bin\Debug\netcoreapp3.1\geektrust.exe
+C:\Users\vaibh\source\repos\The Ledger Co\bin\Debug\netcoreapp3.1\geektrust.deps.json
+C:\Users\vaibh\source\repos\The Ledger Co\bin\Debug\netcoreapp3.1\geektrust.runtimeconfig.json
+C:\Users\vaibh\source\repos\The Ledger Co\bin\Debug\netcoreapp3.1\geektrust.runtimeconfig.dev.json
+C:\Users\vaibh\source\repos\The Ledger Co\bin\Debug\netcoreapp3.1\geektrust.dll
+C:\Users\vaibh\source\repos\The Ledger Co\bin\Debug\netcoreapp3.1\geektrust.pdb
+C:\Users\vaibh\source\repos\The Ledger Co\obj\Debug\netcoreapp3.1\The Ledger Co.AssemblyInfoInputs.cache
+C:\Users\vaibh\source\repos\The Ledger Co\obj\Debug\netcoreapp3.1\The Ledger Co.AssemblyInfo.cs
+C:\Users\vaibh\source\repos\The Ledger Co\obj\Debug\netcoreapp3.1\The Ledger Co.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\source\repos\The Ledger Co\obj\Debug\netcoreapp3.1\geektrust.dll
+C:\Users\vaibh\source\repos\The Ledger Co\obj\Debug\netcoreapp3.1\geektrust.pdb
+C:\Users\vaibh\source\repos\The Ledger Co\obj\Debug\netcoreapp3.1\The Ledger Co.genruntimeconfig.cache
